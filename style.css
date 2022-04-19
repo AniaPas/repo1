@@ -110,7 +110,7 @@ section> .buttongrid {
     margin: 10% 10%;
     
 }
- section> buttongrid. >button {
+ section> .buttongrid> button {
     grid-column-start: 2;
     grid-column-end: 3;
     font-size: 12px;
